@@ -99,6 +99,5 @@ This project presents a complete **Hospital Analytics Dashboard** built in **Pow
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [Your Name](https://www.linkedin.com/in/souravpaulofficial/)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- LinkedIn: [Sourav Paul](https://www.linkedin.com/in/souravpaulofficial/)
 - Email: souravpaulofficial101@gmail.com
