@@ -1,6 +1,6 @@
 # 🏥 Hospital Analytics Dashboard – Power BI
 
-![Dashboard Screenshot](./screenshots/Overview.jpg)
+![Dashboard Screenshot](https://github.com/PaulSourav10/hospital-powerbi-dashboard/blob/main/dash%20board%20pictures/Overview.jpg)
 
 This project presents a complete **Hospital Analytics Dashboard** built in **Power BI** using data from **MySQL**. It analyzes key aspects of hospital operations including patients, doctors, surgeries, finance, and medical inventory.
 
