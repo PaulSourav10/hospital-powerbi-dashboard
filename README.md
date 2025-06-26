@@ -70,8 +70,7 @@ This project presents a complete **Hospital Analytics Dashboard** built in **Pow
 
 ## 💾 Data
 
-- MySQL dump provided under `/data/`
-- Views were created for clean loading into Power BI
+- 🔗 [DATA](https://github.com/PaulSourav10/hospital-powerbi-dashboard/tree/main/data%20dump%20and%20Queries%20for%20data%20cleanong)
 
 ---
 
@@ -79,12 +78,12 @@ This project presents a complete **Hospital Analytics Dashboard** built in **Pow
 
 | Page     | Preview |
 |----------|---------|
-| Home     | ![](./screenshots/Home.jpg) |
-| Overview | ![](./screenshots/Overview.jpg) |
-| Patient  | ![](./screenshots/Patient.jpg) |
-| Doctor   | ![](./screenshots/Doctor.jpg) |
-| Hospital | ![](./screenshots/Hospital.jpg) |
-| Finance  | ![](./screenshots/Finance.jpg) |
+| Home     | ![](https://github.com/PaulSourav10/hospital-powerbi-dashboard/blob/main/dash%20board%20pictures/Home.jpg) |
+| Overview | ![](https://github.com/PaulSourav10/hospital-powerbi-dashboard/blob/main/dash%20board%20pictures/Overview.jpg) |
+| Patient  | ![](https://github.com/PaulSourav10/hospital-powerbi-dashboard/blob/main/dash%20board%20pictures/Patient.jpg) |
+| Doctor   | ![](https://github.com/PaulSourav10/hospital-powerbi-dashboard/blob/main/dash%20board%20pictures/Doctor.jpg) |
+| Hospital | ![](https://github.com/PaulSourav10/hospital-powerbi-dashboard/blob/main/dash%20board%20pictures/Hospital.jpg) |
+| Finance  | ![](https://github.com/PaulSourav10/hospital-powerbi-dashboard/blob/main/dash%20board%20pictures/Finance.jpg) |
 
 ---
 
